@@ -1,3 +1,6 @@
+[![Jest](https://img.shields.io/badge/-JEST-C21325?logo=jest&logoColor=fff)](https://https://jestjs.io/)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
