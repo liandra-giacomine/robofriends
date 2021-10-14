@@ -1,4 +1,5 @@
 [![Jest](https://img.shields.io/badge/-JEST-C21325?logo=jest&logoColor=fff)](https://jestjs.io/)
+[![Jest](https://img.shields.io/badge/-JEST-C21325?logo=jest&logoColor=fff)](https://jestjs.io/)
 
 
 # Getting Started with Create React App
