@@ -1,19 +1,10 @@
 [![Serverless](https://img.shields.io/badge/-Serverless-FD5750?logo=Serverless&logoColor=fff)](https://www.serverless.com)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=fff)](https://nodejs.org/en/)
-
 [![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?logo=Amazonaws&logoColor=amazonorange)](https://aws.amazon.com/)
-
-(lambda, apigateway, dynamodb, iam, codebuild, codepipeline)
 [![Jest](https://img.shields.io/badge/-Jest-C21325?logo=Jest&logoColor=fff)](https://jestjs.io/)
 [![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=ESLint&logoColor=fff)](https://eslint.org/)
-
-Contract Testing
 [![Dredd](https://img.shields.io/badge/Dredd-grey)](https://dredd.org/en/latest/)
-
-Contract Validation
 [![swagger-cli](https://img.shields.io/badge/swagger%20CLI-grey)](https://github.com/APIDevTools/swagger-cli)
-
-Integration Testing
 [![SuperTest](https://img.shields.io/badge/SuperTest-grey)](https://github.com/visionmedia/supertest)
 [![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?logo=Yarn&logoColor=fff)](https://yarnpkg.com)
 
