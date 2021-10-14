@@ -3,7 +3,7 @@
 [![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?logo=Amazonaws&logoColor=amazonorange)](https://aws.amazon.com/)
 [![Jest](https://img.shields.io/badge/-Jest-C21325?logo=Jest&logoColor=fff)](https://jestjs.io/)
 [![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=ESLint&logoColor=fff)](https://eslint.org/)
-[![Dredd](https://img.shields.io/badge/Dredd-blue)](https://dredd.org/en/latest/)
+[![Dredd](https://img.shields.io/badge/Dredd-2980b9)](https://dredd.org/en/latest/)
 [![swagger-cli](https://img.shields.io/badge/-swagger%20CLI-181717?logo=GitHub&logoColor=fff)](https://github.com/APIDevTools/swagger-cli)
 [![SuperTest](https://img.shields.io/badge/-SuperTest-181717?logo=GitHub&logoColor=fff)](https://github.com/visionmedia/supertest)
 [![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?logo=Yarn&logoColor=fff)](https://yarnpkg.com)
