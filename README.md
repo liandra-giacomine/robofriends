@@ -1,6 +1,12 @@
-[![Jest](https://img.shields.io/badge/-JEST-C21325?logo=jest&logoColor=fff)](https://jestjs.io/)
-[![Jest](https://img.shields.io/badge/-JEST-C21325?logo=jest&logoColor=fff)](https://jestjs.io/)
-
+[![Serverless](https://img.shields.io/badge/-Serverless-FD5750?logo=Serverless&logoColor=fff)](https://www.serverless.com)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=fff)](https://nodejs.org/en/)
+[![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?logo=Amazonaws&logoColor=amazonorange)](https://aws.amazon.com/)
+[![Jest](https://img.shields.io/badge/-Jest-C21325?logo=Jest&logoColor=fff)](https://jestjs.io/)
+[![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=ESLint&logoColor=fff)](https://eslint.org/)
+[![Dredd]()](https://dredd.org/en/latest/)
+[![swagger-cli]()](https://github.com/APIDevTools/swagger-cli)
+[![SuperTest]()](https://github.com/visionmedia/supertest)
+[![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?logo=Yarn&logoColor=fff)](https://yarnpkg.com)
 
 # Getting Started with Create React App
 
