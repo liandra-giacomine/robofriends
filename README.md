@@ -1,10 +1,11 @@
+[![Confluence](https://img.shields.io/badge/-Confluence-172B4D?logo=Confluence&logoColor=fff)](https://opencastsoftware.atlassian.net/wiki/spaces/IT/pages/2481815555/Technical)
 [![Serverless](https://img.shields.io/badge/-Serverless-FD5750?logo=Serverless&logoColor=fff)](https://www.serverless.com)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=fff)](https://nodejs.org/en/)
-[![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?logo=Amazonaws&logoColor=amazonorange)](https://aws.amazon.com/)
+[![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?logo=Amazonaws&logoColor=fff)](https://aws.amazon.com/)
 [![Jest](https://img.shields.io/badge/-Jest-C21325?logo=Jest&logoColor=fff)](https://jestjs.io/)
 [![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=ESLint&logoColor=fff)](https://eslint.org/)
 [![Dredd](https://img.shields.io/badge/Dredd-2980b9)](https://dredd.org/en/latest/)
-[![swagger-cli](https://img.shields.io/badge/-swagger%20CLI-181717?logo=GitHub&logoColor=fff)](https://github.com/APIDevTools/swagger-cli)
+[![swagger-cli](https://img.shields.io/badge/-swagger--cli-181717?logo=GitHub)](https://github.com/APIDevTools/swagger-cli)
 [![SuperTest](https://img.shields.io/badge/-SuperTest-181717?logo=GitHub&logoColor=fff)](https://github.com/visionmedia/supertest)
 [![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?logo=Yarn&logoColor=fff)](https://yarnpkg.com)
 
